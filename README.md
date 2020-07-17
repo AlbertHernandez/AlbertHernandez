@@ -9,7 +9,7 @@ Beside's programming, I love Apple 🍎, watching Netflix 📺 and delicious foo
 <p></p>
 
 [![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](www.linkedin.com/in/albert-hernandez-pellicer)
-[![GitHub AlbertHernandez](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AlbertHernandez)
+[![GitHub AlbertHernandez](https://img.shields.io/github/followers/AlbertHernandez?label=follow&style=social)](https://github.com/AlbertHernandez)
 [![](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-red)](mailto:alberthernandezdev@gmail.com)
 
 ```javascript
