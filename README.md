@@ -14,6 +14,6 @@ const albertHernandez = {
 }
 ```
 
-[![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](www.linkedin.com/in/albert-hernandez-pellicer)
+[![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](https://www.linkedin.com/in/albert-hernandez-pellicer)
 [![GitHub AlbertHernandez](https://img.shields.io/github/followers/AlbertHernandez?label=follow&style=social)](https://github.com/AlbertHernandez)
 [![Gmail AlbertHernandez](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-red)](mailto:alberthernandezdev@gmail.com)
