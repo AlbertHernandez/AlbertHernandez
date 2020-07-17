@@ -8,19 +8,8 @@ Beside's programming, I love Apple 🍎, watching Netflix 📺 and delicious foo
 ```javascript
 const albertHernandez = {
   pronouns: "he" | "his",
-  code: [
-    Javascript,
-    Typescript,
-    HTML,
-    CSS
-  ],
-  tools: [
-    React,
-    Redux,
-    Node,
-    Jest,
-    Docker
-  ],
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Jest, Docker],
   architecture: ["microservices", "event-driven"]
 }
 ```
