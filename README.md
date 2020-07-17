@@ -5,10 +5,6 @@ I'm a passionate learner who's love the code ☕︎. You'll always find me learn
 
 Beside's programming, I love Apple 🍎, watching Netflix 📺 and delicious food 🌯 🍱.
 
-[![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](www.linkedin.com/in/albert-hernandez-pellicer)
-[![GitHub AlbertHernandez](https://img.shields.io/github/followers/AlbertHernandez?label=follow&style=social)](https://github.com/AlbertHernandez)
-[![Gmail AlbertHernandez](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-red)](mailto:alberthernandezdev@gmail.com)
-
 ```javascript
 const albertHernandez = {
   pronouns: "he" | "his",
@@ -17,3 +13,7 @@ const albertHernandez = {
   architecture: ["microservices", "event-driven"]
 }
 ```
+
+[![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](www.linkedin.com/in/albert-hernandez-pellicer)
+[![GitHub AlbertHernandez](https://img.shields.io/github/followers/AlbertHernandez?label=follow&style=social)](https://github.com/AlbertHernandez)
+[![Gmail AlbertHernandez](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-red)](mailto:alberthernandezdev@gmail.com)
