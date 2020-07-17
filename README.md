@@ -5,12 +5,9 @@ I'm a passionate learner who's love the code ☕︎. You'll always find me learn
 
 Beside's programming, I love Apple 🍎, watching Netflix 📺 and delicious food 🌯 🍱.
 
-<img align='right' src="https://user-images.githubusercontent.com/29106063/87821132-9a11bc00-c86f-11ea-99de-4ddc6edf0814.jpg" width="230">
-<p></p>
-
-[![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](www.linkedin.com/in/albert-hernandez-pellicer)
+[![Linkedin: AlbertHernandez](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](www.linkedin.com/in/albert-hernandez-pellicer)
 [![GitHub AlbertHernandez](https://img.shields.io/github/followers/AlbertHernandez?label=follow&style=social)](https://github.com/AlbertHernandez)
-[![](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-red)](mailto:alberthernandezdev@gmail.com)
+[![Gmail AlbertHernandez](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-red)](mailto:alberthernandezdev@gmail.com)
 
 ```javascript
 const albertHernandez = {
