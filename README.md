@@ -1,5 +1,5 @@
 <h2> Hi There, I'm Albert! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-I'm a Full Stack Developer 🚀 from Spain 🇪🇸, currently, I'm a Software Engineer 👨🏻‍💻 at <em><a href="https://www.coverwallet.com/">Coverwallet, an Aon Company</a></em>.
+I'm a Full Stack Developer 🚀 from Spain 🇪🇸, currently working 👨🏻‍💻 at <em><a href="https://www.coverwallet.com/">Coverwallet, an Aon Company</a></em>.
 
 I'm a passionate learner who's love the code ☕︎. You'll always find me learning something new.
 
