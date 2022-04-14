@@ -3,6 +3,8 @@ I'm a Full Stack Developer 🚀 from Spain 🇪🇸, currently working 👨🏻�
 
 I'm a passionate learner who loves the code ☕︎. You'll always find me learning something new.
 
+Also, I have started a <em><a href="https://www.youtube.com/channel/UCrjQ8NCnBBI4M3CZlkua8CQ" target="_blank" rel="noopener noreferrer">youtube channel</a></em> where I create tutorials about Web Technologies like Node, Javascript... I love sharing knowledge, it's the best way to grow 🚀
+
 Beside's programming, I love Apple 🍎, watching Netflix 📺 and delicious food 🌯 🍱.
 
 ```javascript
